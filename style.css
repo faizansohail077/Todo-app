@@ -1,5 +1,10 @@
 body{
     margin: 0;
+    /* background-image: url(./pankaj-patel-u2Ru4QBXA5Q-unsplash.jpg)  ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover; */
 }
 
 .todo-item{
@@ -43,6 +48,7 @@ body{
 
 
 .container{
+    
     margin-top: 20px;
     margin-left: 500px;
     align-items: center;
@@ -50,11 +56,20 @@ body{
     background-color: lightskyblue;
     height: 500px;
     width: 360px;
+    background-image: url(./lauren-sauder-6GPBVYLapYQ-unsplash.jpg)  ;
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
 
 }
 
 
 .li{
+    border: 5px solid black;
+    color:red;
+    font-weight: bold;
     font-size: 20px;
     text-decoration: underline;
     margin-right: 5px;
@@ -63,7 +78,6 @@ body{
 
 
 .list{
-    
     
     text-decoration: underline;
     
