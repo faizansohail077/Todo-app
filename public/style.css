@@ -1,4 +1,5 @@
 body{
+    background-color: black;
     margin: 0;
     /* background-image: url(./pankaj-patel-u2Ru4QBXA5Q-unsplash.jpg)  ;
     background-repeat: no-repeat;
@@ -54,6 +55,8 @@ body{
     align-items: center;
     text-align: center;
     background-color: lightskyblue;
+    border-radius: 10px;
+    border: 5px solid black;
     height: 500px;
     width: 360px;
     background-image: url(./lauren-sauder-6GPBVYLapYQ-unsplash.jpg)  ;
